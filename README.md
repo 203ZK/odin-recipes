@@ -1,1 +1,1 @@
-# odin-recipes
+This project gives a simple recipe.
